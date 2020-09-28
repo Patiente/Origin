@@ -100,20 +100,7 @@ input[type="radio"] {
   font-family: 'Sorts Mill Goudy', serif;
   font-size: 18px;
 }
-.footer-copyright{
-  color: rgb(255, 255, 255);
-  font-weight: 600;
-  font-size: 18px;
-}
-.footer-copyright a{
-color: rgb(255, 255, 255);;
-font-weight: 600;
-}
-.footer-copyright a:hover{
-  color: rgb(254, 254, 254);
-  font-weight: 700;
-  text-decoration: none;
-}
+
 .card-text a:hover{
   color: rgb(0, 0, 0);
   text-decoration: none;
