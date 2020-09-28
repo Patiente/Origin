@@ -31,7 +31,13 @@ h1 {
   text-shadow: 2px 2px 5px black;
   margin-bottom: 10px;
 }
-h2,h3{
+h2{
+  text-align: center;
+  font-weight: bold;
+  color:rgb(255, 255, 255);
+  font-family: 'Quattrocento', serif;
+}
+h3{
   text-align: center;
   font-weight: bold;
   color:rgb(255, 255, 255);
